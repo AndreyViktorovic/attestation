@@ -1,0 +1,15 @@
+D:\C#\Prom_attest\bin\Debug\net7.0\Prom_attest.exe
+D:\C#\Prom_attest\bin\Debug\net7.0\Prom_attest.deps.json
+D:\C#\Prom_attest\bin\Debug\net7.0\Prom_attest.runtimeconfig.json
+D:\C#\Prom_attest\bin\Debug\net7.0\Prom_attest.dll
+D:\C#\Prom_attest\bin\Debug\net7.0\Prom_attest.pdb
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.csproj.AssemblyReference.cache
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.AssemblyInfoInputs.cache
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.AssemblyInfo.cs
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.csproj.CoreCompileInputs.cache
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.dll
+D:\C#\Prom_attest\obj\Debug\net7.0\refint\Prom_attest.dll
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.pdb
+D:\C#\Prom_attest\obj\Debug\net7.0\Prom_attest.genruntimeconfig.cache
+D:\C#\Prom_attest\obj\Debug\net7.0\ref\Prom_attest.dll
